@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 范语
+title: 杨舜
 
 # Username (this should match the folder name)
 authors:
-- fanyu
+- yangshun
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2020硕
+role: 2020本
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,13 @@ organizations:
 bio: hello world!
 
 interests:
-- Reading
-- History
+- ACG
+- Trip
 
 education:
   courses:
-  - course: MEng in Computer Science
+  - course: Data Science and Engineering
     institution: East China Normal University
-    year: 2023
-  - course: BEng in Computer science and technology
-    institution: Wuhan University of Technology
     year: 2020
 
 # Social/Academic Networking
@@ -40,13 +37,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:1178125502@qq.com"
+  link: "mailto:1411015378@1qq.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/leerfanyu
-- icon: zhihu
+  link: https://github.com/zhongershun
+- icon: CSDN
   icon_pack: fab
-  link: https://www.zhihu.com/people/le-er-3-12
+  link: https://blog.csdn.net/Schwarz_shun
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "1178125502@qq.com"
+email: "1411015378@qq.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -62,4 +59,4 @@ user_groups:
 - Master
 ---
 
-## A happy child in X-Lab.
+## A handsome boy in X-Lab.
