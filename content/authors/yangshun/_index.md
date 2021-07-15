@@ -22,6 +22,7 @@ bio: hello world!
 
 interests:
 - ACG
+- Trip
 
 education:
   courses:
